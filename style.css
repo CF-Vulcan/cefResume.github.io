@@ -1,0 +1,95 @@
+body {
+    background-color: #f4ebf1; 
+    color: #04000e;    /*Changes color of ALL the text*/
+}
+
+
+/* Hello Section */
+#hello {
+    background: url('https://images.squarespace-cdn.com/content/v1/58629c8b46c3c49fd7b3604b/1569938579314-XJH27PMFGLR1FFCP3SBS/image-asset.jpeg') no-repeat center center/cover;
+    color: rgb(14, 9, 17);
+    text-align: center;
+    padding: 100px 20px; 
+}
+
+#hello h1 {
+    font-size: 3em;
+    margin-bottom: 20px;
+}
+
+#hello p {
+    font-size: 1.2em;
+    margin-bottom: 30px;
+}
+
+.btn {
+    background-color: #2c5cfa;
+    color: #fff;
+    padding: 12px 30px; 
+    border-radius: 5px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.btn:hover {
+    background-color: #6d1bca;
+}
+
+
+/* Section Styling */
+.section {
+    padding: 60px 20px;
+    text-align: center;
+}
+
+
+
+h2 {
+    font-size: 2.5em;
+    margin-bottom: 20px;
+}
+
+p {
+    font-size: 1.1em;
+    margin-bottom: 30px;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+
+ul {
+    list-style:circle;
+    padding: 0;
+}
+
+ul li {
+    font-size: 1.2em;
+    margin: 10px 0;
+}
+
+.project-item img {
+    width: 80%;
+    margin-bottom: 15px;
+    border-radius: 10px;
+}
+
+.project-item h3 {
+    font-size: 1.8em;
+    margin-bottom: 10px;
+}
+
+/* Footer */
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+}
+
+.footer-container p {
+    font-size: 1em;
+}
