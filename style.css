@@ -1,6 +1,6 @@
 body {
     background-color: #313131; 
-    color: #04000e;    /*Changes color of ALL the text*/
+    color: #ffffff;    /*Changes color of ALL the text*/
 }
 
 
@@ -19,19 +19,6 @@ body {
 #hello p {
     font-size: 1.2em;
     margin-bottom: 30px;
-}
-
-.btn {
-    background-color: #2c5cfa;
-    color: #fff;
-    padding: 12px 30px; 
-    border-radius: 5px;
-    font-weight: bold;
-    cursor: pointer;
-}
-
-.btn:hover {
-    background-color: #6d1bca;
 }
 
 
@@ -83,7 +70,7 @@ ul li {
 
 /* Footer */
 footer {
-    background-color: #333;
+    background-color: #000000;
     color: #fff;
     padding: 20px 0;
     text-align: center;
