@@ -6,6 +6,7 @@ body {
 
 /* Hello Section */
 #hello {
+    background: URL('IMG_4828_jpg.JPG')
     color: rgb(14, 9, 17);
     text-align: center;
     padding: 100px 20px; 
